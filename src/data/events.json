@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "title": "Discover Scuba Experience",
+    "category": "Diving",
+    "start": "10:30",
+    "end": "11:30",
+    "duration": 60,
+    "locationId": 2,
+    "description": "Experience scuba diving in a controlled shallow-water environment with guidance from professional instructors. Learn how basic scuba equipment works, practice breathing through a regulator, and discover essential underwater communication signals. This introductory session is designed for beginners and includes supervised underwater activities.",
+    "program": [
+      {
+        "time": "10:30–10:40",
+        "activity": "Welcome, participant briefing, and safety instructions"
+      },
+      {
+        "time": "10:40–10:50",
+        "activity": "Introduction to scuba equipment and breathing techniques"
+      },
+      {
+        "time": "10:50–11:05",
+        "activity": "Equipment preparation and shallow-water practice"
+      },
+      {
+        "time": "11:05–11:25",
+        "activity": "Supervised underwater experience with instructors"
+      },
+      {
+        "time": "11:25–11:30",
+        "activity": "Equipment return and session conclusion"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Deep Water Exploration Session",
+    "category": "Diving",
+    "start": "11:00",
+    "end": "12:00",
+    "duration": 60,
+    "locationId": 1,
+    "description": "Explore a specially designed deep-water diving environment featuring submerged platforms, artificial underwater formations, and observation structures. Qualified divers guide participants through controlled exploration exercises while explaining underwater navigation, buoyancy management, and communication techniques.",
+    "program": [
+      {
+        "time": "11:00–11:10",
+        "activity": "Registration and diving safety briefing"
+      },
+      {
+        "time": "11:10–11:20",
+        "activity": "Equipment inspection and preparation"
+      },
+      {
+        "time": "11:20–11:30",
+        "activity": "Buoyancy and communication practice"
+      },
+      {
+        "time": "11:30–11:50",
+        "activity": "Guided underwater exploration"
+      },
+      {
+        "time": "11:50–12:00",
+        "activity": "Controlled ascent and equipment return"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Underwater Photography Workshop",
+    "category": "Workshops",
+    "start": "12:00",
+    "end": "13:00",
+    "duration": 60,
+    "locationId": 12,
+    "description": "Discover the fundamentals of underwater photography through demonstrations and practical exercises. Learn about waterproof camera systems, underwater lighting, image composition, and color correction. Explore techniques used to photograph marine animals and underwater environments.",
+    "program": [
+      {
+        "time": "12:00–12:10",
+        "activity": "Introduction to underwater photography"
+      },
+      {
+        "time": "12:10–12:25",
+        "activity": "Camera equipment and waterproof housing demonstration"
+      },
+      {
+        "time": "12:25–12:40",
+        "activity": "Lighting, composition, and underwater color techniques"
+      },
+      {
+        "time": "12:40–12:55",
+        "activity": "Guided camera practice and image review"
+      },
+      {
+        "time": "12:55–13:00",
+        "activity": "Questions and workshop conclusion"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Coral Reef Discovery Tour",
+    "category": "Exhibitions",
+    "start": "12:30",
+    "end": "13:15",
+    "duration": 45,
+    "locationId": 6,
+    "description": "Join a guided educational tour exploring coral reef ecosystems and the marine species that depend on them. Discover how coral reefs form, why they support marine biodiversity, and which environmental changes threaten their survival. Observe detailed reef displays and learn about conservation initiatives.",
+    "program": [
+      {
+        "time": "12:30–12:35",
+        "activity": "Welcome and introduction to reef ecosystems"
+      },
+      {
+        "time": "12:35–12:50",
+        "activity": "Guided coral habitat exhibition tour"
+      },
+      {
+        "time": "12:50–13:00",
+        "activity": "Marine biodiversity and reef species presentation"
+      },
+      {
+        "time": "13:00–13:10",
+        "activity": "Coral conservation and environmental challenges"
+      },
+      {
+        "time": "13:10–13:15",
+        "activity": "Questions and final observations"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Professional Diving Demonstration",
+    "category": "Ocean Shows",
+    "start": "13:00",
+    "end": "13:45",
+    "duration": 45,
+    "locationId": 1,
+    "description": "Watch experienced diving professionals demonstrate advanced underwater movement, buoyancy control, navigation techniques, and team communication. The demonstration takes place in a transparent deep-water pool, allowing visitors to observe the divers from dedicated viewing platforms.",
+    "program": [
+      {
+        "time": "13:00–13:05",
+        "activity": "Introduction to the diving team"
+      },
+      {
+        "time": "13:05–13:15",
+        "activity": "Equipment preparation and safety checks"
+      },
+      {
+        "time": "13:15–13:30",
+        "activity": "Underwater navigation and buoyancy demonstration"
+      },
+      {
+        "time": "13:30–13:40",
+        "activity": "Team coordination and communication demonstration"
+      },
+      {
+        "time": "13:40–13:45",
+        "activity": "Diver presentation and audience questions"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ocean Conservation Workshop",
+    "category": "Workshops",
+    "start": "13:30",
+    "end": "14:30",
+    "duration": 60,
+    "locationId": 8,
+    "description": "Learn about the environmental challenges affecting marine ecosystems and the actions used to protect ocean habitats. The workshop covers plastic pollution, coral reef degradation, endangered marine species, and sustainable ocean practices through interactive educational activities.",
+    "program": [
+      {
+        "time": "13:30–13:40",
+        "activity": "Introduction to ocean conservation"
+      },
+      {
+        "time": "13:40–13:55",
+        "activity": "Marine pollution and habitat protection presentation"
+      },
+      {
+        "time": "13:55–14:10",
+        "activity": "Interactive marine ecosystem activity"
+      },
+      {
+        "time": "14:10–14:20",
+        "activity": "Conservation solutions and responsible visitor practices"
+      },
+      {
+        "time": "14:20–14:30",
+        "activity": "Group discussion and questions"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Underwater Obstacle Challenge",
+    "category": "Diving",
+    "start": "14:00",
+    "end": "15:00",
+    "duration": 60,
+    "locationId": 3,
+    "description": "Take part in a supervised underwater activity course featuring navigation hoops, submerged pathways, and controlled movement challenges. Participants complete a sequence of underwater tasks focused on coordination, buoyancy, and navigation while instructors monitor safety throughout the session.",
+    "program": [
+      {
+        "time": "14:00–14:10",
+        "activity": "Welcome, safety briefing, and course explanation"
+      },
+      {
+        "time": "14:10–14:20",
+        "activity": "Equipment checks and movement preparation"
+      },
+      {
+        "time": "14:20–14:35",
+        "activity": "Practice course with instructor assistance"
+      },
+      {
+        "time": "14:35–14:55",
+        "activity": "Supervised underwater obstacle challenge"
+      },
+      {
+        "time": "14:55–15:00",
+        "activity": "Results review and activity conclusion"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Freediving Introduction",
+    "category": "Workshops",
+    "start": "14:30",
+    "end": "15:30",
+    "duration": 60,
+    "locationId": 4,
+    "description": "Discover the basic principles of freediving through an instructor-led introduction to underwater movement, relaxation, breathing awareness, and essential safety procedures. The session includes dry-land education and supervised shallow-water demonstrations suitable for introductory learning.",
+    "program": [
+      {
+        "time": "14:30–14:40",
+        "activity": "Introduction to freediving and safety principles"
+      },
+      {
+        "time": "14:40–14:55",
+        "activity": "Breathing awareness and relaxation exercises on land"
+      },
+      {
+        "time": "14:55–15:10",
+        "activity": "Equipment overview and instructor demonstration"
+      },
+      {
+        "time": "15:10–15:25",
+        "activity": "Supervised shallow-water movement practice"
+      },
+      {
+        "time": "15:25–15:30",
+        "activity": "Session summary and safety reminders"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Deep Sea Creatures Experience",
+    "category": "Exhibitions",
+    "start": "15:00",
+    "end": "15:45",
+    "duration": 45,
+    "locationId": 7,
+    "description": "Explore the unusual animals and environments found in the deepest parts of the ocean. Discover how marine organisms survive under extreme pressure, limited food availability, and complete darkness. The exhibition features deep-sea imagery, bioluminescence demonstrations, and interactive scientific displays.",
+    "program": [
+      {
+        "time": "15:00–15:10",
+        "activity": "Introduction to deep-ocean environments"
+      },
+      {
+        "time": "15:10–15:20",
+        "activity": "Deep-sea animal adaptations presentation"
+      },
+      {
+        "time": "15:20–15:30",
+        "activity": "Bioluminescence demonstration"
+      },
+      {
+        "time": "15:30–15:40",
+        "activity": "Interactive deep-sea exploration displays"
+      },
+      {
+        "time": "15:40–15:45",
+        "activity": "Questions and exhibition conclusion"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Diving Equipment Masterclass",
+    "category": "Workshops",
+    "start": "15:30",
+    "end": "16:30",
+    "duration": 60,
+    "locationId": 11,
+    "description": "Explore the main components of modern scuba diving equipment and learn how they support underwater activities. Professional instructors demonstrate regulators, diving cylinders, buoyancy control devices, masks, fins, and dive computers while explaining equipment preparation and maintenance principles.",
+    "program": [
+      {
+        "time": "15:30–15:40",
+        "activity": "Introduction to essential scuba equipment"
+      },
+      {
+        "time": "15:40–15:55",
+        "activity": "Breathing systems and cylinder demonstration"
+      },
+      {
+        "time": "15:55–16:10",
+        "activity": "Buoyancy devices and dive computer overview"
+      },
+      {
+        "time": "16:10–16:25",
+        "activity": "Supervised equipment inspection demonstration"
+      },
+      {
+        "time": "16:25–16:30",
+        "activity": "Questions and masterclass conclusion"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Marine Photography Exhibition",
+    "category": "Exhibitions",
+    "start": "16:00",
+    "end": "17:00",
+    "duration": 60,
+    "locationId": 5,
+    "description": "Discover a curated collection of underwater photographs featuring coral reefs, marine animals, ocean landscapes, and scientific expeditions. The exhibition combines large-format photography with explanations of underwater imaging techniques and marine environmental research.",
+    "program": [
+      {
+        "time": "16:00–16:10",
+        "activity": "Exhibition welcome and introduction"
+      },
+      {
+        "time": "16:10–16:25",
+        "activity": "Coral reef and marine wildlife photography gallery"
+      },
+      {
+        "time": "16:25–16:40",
+        "activity": "Deep-ocean photography and exploration images"
+      },
+      {
+        "time": "16:40–16:55",
+        "activity": "Underwater photography techniques and equipment presentation"
+      },
+      {
+        "time": "16:55–17:00",
+        "activity": "Final gallery viewing and questions"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ocean Lights Evening Show",
+    "category": "Ocean Shows",
+    "start": "19:00",
+    "end": "19:45",
+    "duration": 45,
+    "locationId": 5,
+    "description": "Attend an evening audiovisual presentation combining underwater imagery, synchronized lighting, ocean-inspired sound effects, and illuminated marine installations. The show transforms the Ocean Discovery Tunnel into an immersive environment featuring moving projections of marine life and underwater landscapes.",
+    "program": [
+      {
+        "time": "19:00–19:05",
+        "activity": "Visitor welcome and show introduction"
+      },
+      {
+        "time": "19:05–19:15",
+        "activity": "Ocean light and underwater projection sequence"
+      },
+      {
+        "time": "19:15–19:25",
+        "activity": "Marine life visual presentation"
+      },
+      {
+        "time": "19:25–19:40",
+        "activity": "Main synchronized ocean lighting performance"
+      },
+      {
+        "time": "19:40–19:45",
+        "activity": "Final visual sequence and show conclusion"
+      }
+    ]
+  }
+]

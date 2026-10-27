@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Diving Mask",
+    "category": "Essential Gear",
+    "overview": "A diving mask allows divers to see clearly underwater by creating an air space in front of their eyes. It is an essential piece of equipment for scuba diving, snorkeling, and underwater exploration.",
+    "features": [
+      "Tempered glass lenses designed for underwater use.",
+      "Flexible silicone skirt that forms a seal around the face.",
+      "Adjustable head strap for a secure fit.",
+      "Low-volume design options for easier clearing and equalization."
+    ],
+    "how": "The mask creates an air space between the diver's eyes and the surrounding water. This allows light to reach the eyes through air, improving underwater vision. Divers can equalize mask pressure by gently exhaling through their nose.",
+    "safety": "Choose a mask that fits comfortably without excessive pressure. Check the skirt and strap before use, and learn proper mask-clearing techniques with an instructor.",
+    "locationId": 11
+  },
+  {
+    "id": 2,
+    "title": "Diving Fins",
+    "category": "Essential Gear",
+    "overview": "Diving fins help swimmers move efficiently through water by increasing propulsion with each leg movement. They reduce unnecessary effort and improve underwater maneuverability.",
+    "features": [
+      "Flexible or semi-rigid blades designed for underwater propulsion.",
+      "Full-foot and open-heel designs.",
+      "Adjustable heel straps on selected models.",
+      "Different blade shapes for recreational and technical applications."
+    ],
+    "how": "Fins increase the effective surface area of the feet, allowing divers to move more water during controlled kicking movements. Different fin designs provide different levels of propulsion, maneuverability, and resistance.",
+    "safety": "Select fins appropriate for your activity and physical ability. Avoid excessive kicking effort and maintain awareness of nearby divers and fragile underwater environments.",
+    "locationId": 11
+  },
+  {
+    "id": 3,
+    "title": "Wetsuit",
+    "category": "Essential Gear",
+    "overview": "A wetsuit provides thermal insulation during water activities and helps reduce heat loss. It is commonly used for scuba diving, snorkeling, freediving, and other aquatic sports.",
+    "features": [
+      "Neoprene construction for thermal insulation.",
+      "Different thickness options for varying water temperatures.",
+      "Flexible panels for comfortable movement.",
+      "Full-length and short-style configurations."
+    ],
+    "how": "Neoprene contains small gas-filled cells that reduce heat transfer. A properly fitted wetsuit limits water circulation against the skin, helping retain body heat during underwater activities.",
+    "safety": "Choose a wetsuit suitable for the expected water temperature and activity duration. Ensure it fits correctly without restricting breathing or movement. A wetsuit does not eliminate the risk of hypothermia.",
+    "locationId": 9
+  },
+  {
+    "id": 4,
+    "title": "Snorkel",
+    "category": "Essential Gear",
+    "overview": "A snorkel is a breathing tube that allows swimmers to breathe atmospheric air while keeping their face underwater near the surface. It is commonly used during snorkeling and surface swimming.",
+    "features": [
+      "Curved breathing tube with a mouthpiece.",
+      "Flexible silicone mouthpiece for comfort.",
+      "Optional splash guard or dry-top mechanism.",
+      "Attachment clip for connecting to a diving mask."
+    ],
+    "how": "The upper end of the snorkel remains above the water surface while the swimmer breathes through the mouthpiece. It does not supply air when fully submerged.",
+    "safety": "Use a snorkel only when its opening is above water. Learn how to clear water from the tube, avoid prolonged breath-holding, and follow appropriate snorkeling safety practices.",
+    "locationId": 9
+  },
+  {
+    "id": 5,
+    "title": "Scuba Regulator",
+    "category": "Breathing Equipment",
+    "overview": "A scuba regulator is a breathing system that delivers gas from a high-pressure diving cylinder at a pressure suitable for the diver's surrounding depth. It is a critical component of scuba diving equipment.",
+    "features": [
+      "First-stage regulator that reduces cylinder pressure.",
+      "Second-stage demand regulator with a breathing mouthpiece.",
+      "Hoses connecting breathing and monitoring components.",
+      "Alternate air source configurations for emergency support."
+    ],
+    "how": "The first stage reduces the high pressure of the gas stored inside the cylinder. The second stage supplies breathable gas when the diver inhales, delivering it at approximately the surrounding water pressure.",
+    "safety": "Regulators must be inspected, maintained, and serviced according to manufacturer instructions. Divers should perform pre-dive checks and use breathing systems only after appropriate training.",
+    "locationId": 11
+  },
+  {
+    "id": 6,
+    "title": "Diving Cylinder",
+    "category": "Breathing Equipment",
+    "overview": "A diving cylinder is a pressure-rated container used to store compressed breathing gas for scuba diving. It supplies gas to the diver through a compatible regulator system.",
+    "features": [
+      "High-strength aluminum or steel construction.",
+      "Pressure-rated cylinder body.",
+      "Cylinder valve for controlling gas delivery.",
+      "Different capacities and operating pressure ratings."
+    ],
+    "how": "Breathing gas is compressed and stored inside the cylinder. When the valve is opened, gas can flow to the connected regulator, which reduces the pressure to a breathable level.",
+    "safety": "Cylinders require appropriate inspections, testing, handling, and filling procedures. Only qualified personnel should fill cylinders. Divers must verify gas suitability and available supply before entering the water.",
+    "locationId": 11
+  },
+  {
+    "id": 7,
+    "title": "Diving Torch",
+    "category": "Underwater Accessories",
+    "overview": "A diving torch is a waterproof lighting device used to improve visibility in dark underwater environments. It is useful during low-light diving, wreck exploration, and underwater observation.",
+    "features": [
+      "Waterproof pressure-resistant housing.",
+      "LED illumination with different brightness options.",
+      "Rechargeable or replaceable battery systems.",
+      "Handheld and equipment-mounted configurations."
+    ],
+    "how": "The torch uses a sealed electrical system to power a light source underwater. Its focused beam illuminates nearby objects and helps divers observe colors and details that become less visible at depth.",
+    "safety": "Check waterproof seals, battery condition, and depth rating before use. For activities requiring artificial lighting, appropriate backup equipment and specialized training may be necessary.",
+    "locationId": 11
+  },
+  {
+    "id": 8,
+    "title": "Underwater Camera",
+    "category": "Underwater Accessories",
+    "overview": "An underwater camera allows divers and marine researchers to capture photographs and videos below the water surface. Specialized waterproof housings protect cameras from water pressure and moisture.",
+    "features": [
+      "Waterproof housing with a specified depth rating.",
+      "Optical ports designed for underwater imaging.",
+      "Optional underwater lights and external strobes.",
+      "Manual or automatic exposure controls."
+    ],
+    "how": "A sealed housing protects the camera while allowing access to important controls. Underwater lighting and camera settings help compensate for changes in color, contrast, and visibility caused by water.",
+    "safety": "Inspect housing seals before use and confirm the camera's operating depth limit. Never allow photography to interfere with buoyancy control, safe diving practices, or protection of marine life.",
+    "locationId": 12
+  },
+  {
+    "id": 9,
+    "title": "Dive Compass",
+    "category": "Underwater Accessories",
+    "overview": "A dive compass is a navigation instrument that helps divers maintain direction and follow planned underwater routes when visual landmarks are limited.",
+    "features": [
+      "Magnetic directional indicator.",
+      "Rotating bezel for setting headings.",
+      "Luminous markings for low-light visibility.",
+      "Wrist-mounted or console-mounted designs."
+    ],
+    "how": "The compass uses a magnetic indicator to show direction relative to Earth's magnetic field. Divers use it together with navigation techniques, landmarks, and dive planning to maintain a chosen heading.",
+    "safety": "Learn proper compass navigation techniques before relying on the instrument underwater. Keep it away from equipment that may cause magnetic interference and use additional navigation references when possible.",
+    "locationId": 9
+  },
+  {
+    "id": 10,
+    "title": "Buoyancy Control Device",
+    "category": "Safety Equipment",
+    "overview": "A Buoyancy Control Device, commonly called a BCD, allows scuba divers to adjust their buoyancy by adding or releasing gas from an inflatable bladder. It also commonly provides attachment points for cylinders and accessories.",
+    "features": [
+      "Inflatable bladder for buoyancy adjustment.",
+      "Inflation and deflation controls.",
+      "Cylinder attachment system.",
+      "Adjustable straps and equipment attachment points."
+    ],
+    "how": "Adding gas to the BCD increases displaced water volume and buoyancy. Releasing gas reduces buoyancy. Divers combine BCD adjustments with breathing control and appropriate weighting to manage their position underwater.",
+    "safety": "Check inflation and deflation systems before diving. Proper buoyancy control requires training and practice. Avoid uncontrolled ascents and follow instructor guidance when using unfamiliar equipment.",
+    "locationId": 10
+  },
+  {
+    "id": 11,
+    "title": "Dive Computer",
+    "category": "Safety Equipment",
+    "overview": "A dive computer is an electronic instrument that monitors dive depth and time while calculating information used to manage exposure to pressure during scuba diving.",
+    "features": [
+      "Digital depth and dive-time monitoring.",
+      "No-decompression limit information.",
+      "Ascent-rate monitoring and warnings.",
+      "Dive history and log recording on supported models."
+    ],
+    "how": "The device uses pressure measurements and decompression algorithms to estimate relevant dive limits and track the diver's underwater profile. Some models also integrate breathing gas information.",
+    "safety": "Understand the computer's operating modes and limitations before diving. Follow recognized training procedures and never treat a dive computer as a guarantee against decompression illness.",
+    "locationId": 10
+  },
+  {
+    "id": 12,
+    "title": "Surface Marker Buoy",
+    "category": "Safety Equipment",
+    "overview": "A Surface Marker Buoy, or SMB, is a brightly colored inflatable marker used to improve diver visibility at the water surface. Certain models can be deployed underwater to indicate a diver's position during ascent.",
+    "features": [
+      "Highly visible inflatable marker.",
+      "Bright orange, red, or yellow material.",
+      "Compact storage design.",
+      "Attachment options for lines and reels, depending on the model."
+    ],
+    "how": "Once inflated, the marker rises or remains at the surface, where it can help boats and surface support personnel identify the diver's location. Deployment procedures depend on the specific type of buoy.",
+    "safety": "Learn correct deployment techniques before use, particularly for delayed surface marker buoys. Improper handling of lines or inflation systems can create entanglement or uncontrolled ascent hazards.",
+    "locationId": 10
+  }
+]

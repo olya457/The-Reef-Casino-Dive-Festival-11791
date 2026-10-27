@@ -1,0 +1,118 @@
+export const safetySources = [
+  {
+    id: 'dan-emergency',
+    title: 'DAN · Decompression Illness',
+    url: 'https://dan.org/health-medicine/health-resources/diseases-conditions/decompression-illness-what-is-it-and-what-is-the-treatment/',
+  },
+  {
+    id: 'dan-practices',
+    title: 'DAN · Safe Diving Practices',
+    url: 'https://world.dan.org/safety-prevention/diver-safety/safe-diving-practices/',
+  },
+  {
+    id: 'dan-rules',
+    title: 'DAN Europe · Safety Rules',
+    url: 'https://www.daneurope.org/en/safety-rules',
+  },
+  {
+    id: 'padi-descent',
+    title: 'PADI · Safe Ascents & Descents',
+    url: 'https://blog.padi.com/how-to-ascend-and-descend-safely-in-scuba-diving/',
+  },
+  {
+    id: 'padi-basics',
+    title: 'PADI · Golden Rules of Scuba Diving',
+    url: 'https://blog.padi.com/the-golden-rules-of-scuba-diving/',
+  },
+  {
+    id: 'dan-flying',
+    title: 'DAN · Flying After Diving',
+    url: 'https://dan.org/health-medicine/health-resources/diseases-conditions/flying-after-diving/',
+  },
+];
+export const safetyRules = [
+  {
+    id: 'training',
+    category: 'Before Diving',
+    title: 'Start with qualified supervision',
+    body: 'New to scuba? Join an instructor-led introductory session. Certified divers must stay within their training and experience. Ask questions before entering the water.',
+    source: 'dan-practices',
+  },
+  {
+    id: 'fitness',
+    category: 'Before Diving',
+    title: 'Be fit and ready to dive',
+    body: 'Tell the instructor about illness, injuries and medication. Obtain medical advice when needed. Stay hydrated and avoid alcohol before diving.',
+    source: 'dan-rules',
+  },
+  {
+    id: 'equipment',
+    category: 'Before Diving',
+    title: 'Check equipment with your buddy',
+    body: 'Use suitable, maintained equipment you know how to operate. Check its fit and function together before entry. Ask the instructor to resolve any problem.',
+    source: 'padi-basics',
+  },
+  {
+    id: 'plan',
+    category: 'Before Diving',
+    title: 'Agree on a shared plan',
+    body: 'Review the route, entry and exit, limits, gas reserve, hand signals and separation procedure. Know where surface support and emergency equipment are located.',
+    source: 'dan-practices',
+  },
+  {
+    id: 'breathing',
+    category: 'Underwater',
+    title: 'Keep breathing continuously',
+    body: 'When breathing compressed gas, breathe normally and never hold your breath, particularly while ascending. Signal your buddy or instructor if anything feels wrong.',
+    source: 'dan-practices',
+  },
+  {
+    id: 'ears',
+    category: 'Underwater',
+    title: 'Equalize before discomfort',
+    body: 'Equalize gently and frequently during descent. Do not force it or descend through pain. Signal your instructor and stop descending if equalization is difficult.',
+    source: 'padi-descent',
+  },
+  {
+    id: 'buddy',
+    category: 'Underwater',
+    title: 'Stay together',
+    body: 'Keep your buddy or instructor close and communicate regularly. Follow the agreed separation procedure if you lose contact.',
+    source: 'dan-practices',
+  },
+  {
+    id: 'gas',
+    category: 'Underwater',
+    title: 'Monitor your gas and limits',
+    body: 'Check your pressure gauge, depth and time regularly. Tell your buddy when you reach agreed limits and end the dive as planned.',
+    source: 'dan-practices',
+  },
+  {
+    id: 'buoyancy',
+    category: 'Underwater',
+    title: 'Control buoyancy, protect the reef',
+    body: 'Use the buoyancy skills learned in training. Keep equipment secured and remain clear of coral and marine animals. Do not touch or chase wildlife.',
+    source: 'padi-basics',
+  },
+  {
+    id: 'ascent',
+    category: 'After Diving',
+    title: 'Make a controlled ascent',
+    body: 'Ascend slowly with your buddy, following your training, instructor and dive computer. Complete the stops required by your dive plan; never rush to the surface.',
+    source: 'padi-descent',
+  },
+  {
+    id: 'flying',
+    category: 'After Diving',
+    title: 'Plan time before flying',
+    body: 'For symptom-free recreational air divers: DAN recommends at least 12 hours after one no-decompression dive, or 18 hours after repetitive or multiday diving. Longer is safer. Decompression dives need a substantially longer interval and specialist advice. These minimums do not guarantee safety. Follow stricter guidance from your dive computer or instructor.',
+    source: 'dan-flying',
+  },
+  {
+    id: 'symptoms',
+    category: 'After Diving',
+    title: 'Report unusual symptoms promptly',
+    body: 'If you feel unwell after diving, stop diving and seek medical help. Do not fly with possible decompression illness symptoms, even if they seem mild.',
+    source: 'dan-flying',
+  },
+];

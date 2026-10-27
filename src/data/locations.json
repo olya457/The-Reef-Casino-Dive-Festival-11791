@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Deep Dive Pool",
+    "key": "DeepDivePool",
+    "category": "Diving Zones",
+    "description": "A professional indoor diving facility featuring a deep training pool with underwater observation windows, submerged platforms, and controlled diving environments. Visitors can watch experienced divers, attend demonstrations, and participate in supervised diving sessions.",
+    "zone": "A",
+    "x": 65,
+    "y": 80
+  },
+  {
+    "id": 2,
+    "name": "Beginner Dive Lagoon",
+    "key": "BeginnerDiveLagoon",
+    "category": "Diving Zones",
+    "description": "A dedicated shallow-water training area designed for visitors experiencing scuba diving for the first time. Qualified instructors introduce basic equipment, breathing techniques, and underwater communication in a controlled environment.",
+    "zone": "A",
+    "x": 235,
+    "y": 115
+  },
+  {
+    "id": 3,
+    "name": "Underwater Obstacle Arena",
+    "key": "UnderwaterObstacleArena",
+    "category": "Diving Zones",
+    "description": "An underwater activity arena featuring submerged tunnels, navigation hoops, floating obstacles, and skill-based challenges. Participants complete supervised courses designed to test underwater coordination, movement, and navigation abilities.",
+    "zone": "A",
+    "x": 140,
+    "y": 80
+  },
+  {
+    "id": 4,
+    "name": "Freediving Center",
+    "key": "FreedivingCenter",
+    "category": "Diving Zones",
+    "description": "A specialized facility introducing visitors to freediving techniques, breathing preparation, and underwater movement without scuba equipment. The center offers instructor-led educational sessions, controlled demonstrations, and information about freediving safety.",
+    "zone": "A",
+    "x": 275,
+    "y": 115
+  },
+  {
+    "id": 5,
+    "name": "Ocean Discovery Tunnel",
+    "key": "OceanDiscoveryTunnel",
+    "category": "Ocean Exhibitions",
+    "description": "A panoramic underwater tunnel surrounded by large aquarium habitats containing tropical fish, rays, and other marine species. Visitors walk through transparent viewing sections while exploring displays about ocean ecosystems and marine biodiversity.",
+    "zone": "B",
+    "x": 78,
+    "y": 160
+  },
+  {
+    "id": 6,
+    "name": "Coral Reef Gallery",
+    "key": "CoralReefGallery",
+    "category": "Ocean Exhibitions",
+    "description": "An educational exhibition dedicated to coral reef ecosystems, reef-building organisms, and tropical marine habitats. Detailed displays explain coral growth, reef biodiversity, environmental threats, and ongoing conservation efforts.",
+    "zone": "B",
+    "x": 245,
+    "y": 195
+  },
+  {
+    "id": 7,
+    "name": "Deep Sea Observatory",
+    "key": "DeepSeaObservatory",
+    "category": "Ocean Exhibitions",
+    "description": "An immersive exhibition exploring the extreme environments of the deep ocean. Visitors discover deep-sea organisms, underwater pressure conditions, bioluminescence, and scientific technologies used to study ocean depths.",
+    "zone": "B",
+    "x": 150,
+    "y": 160
+  },
+  {
+    "id": 8,
+    "name": "Marine Life Pavilion",
+    "key": "MarineLifePavilion",
+    "category": "Ocean Exhibitions",
+    "description": "A marine education pavilion featuring exhibits about sea turtles, sharks, rays, coral reef fish, and other ocean animals. Interactive displays introduce marine habitats, animal behavior, food chains, and ocean conservation practices.",
+    "zone": "B",
+    "x": 285,
+    "y": 195
+  },
+  {
+    "id": 9,
+    "name": "Dive Academy",
+    "key": "DiveAcademy",
+    "category": "Training & Workshops",
+    "description": "A dedicated learning center offering introductory lessons about scuba diving principles, equipment preparation, underwater communication, and diving procedures. Visitors can attend instructor-led presentations and practical educational demonstrations.",
+    "zone": "C",
+    "x": 65,
+    "y": 265
+  },
+  {
+    "id": 10,
+    "name": "Safety Training Center",
+    "key": "SafetyTrainingCenter",
+    "category": "Training & Workshops",
+    "description": "An educational facility focused on diving safety, emergency procedures, equipment inspections, and risk awareness. Demonstrations explain essential safety practices, communication signals, and the importance of professional supervision.",
+    "zone": "C",
+    "x": 235,
+    "y": 300
+  },
+  {
+    "id": 11,
+    "name": "Equipment Testing Lab",
+    "key": "EquipmentTestingLab",
+    "category": "Training & Workshops",
+    "description": "An interactive equipment demonstration area displaying diving masks, regulators, cylinders, buoyancy devices, and underwater accessories. Visitors can examine equipment components, learn how different systems operate, and observe supervised product demonstrations.",
+    "zone": "C",
+    "x": 140,
+    "y": 265
+  },
+  {
+    "id": 12,
+    "name": "Ocean Research Studio",
+    "key": "OceanResearchStudio",
+    "category": "Training & Workshops",
+    "description": "A marine research and photography workshop space featuring underwater cameras, ocean observation equipment, scientific displays, and educational demonstrations. Visitors can explore marine research methods and attend underwater photography sessions.",
+    "zone": "C",
+    "x": 275,
+    "y": 300
+  },
+  {
+    "id": 13,
+    "name": "Blue Wave Restaurant",
+    "key": "BlueWaveRestaurant",
+    "category": "Food & Relaxation",
+    "description": "A premium festival restaurant offering a selection of seafood dishes, international meals, and refreshing beverages. The dining area features panoramic aquarium views, elegant seating, and a sophisticated ocean-inspired interior.",
+    "zone": "D",
+    "x": 78,
+    "y": 345
+  },
+  {
+    "id": 14,
+    "name": "Coral Cafe",
+    "key": "CoralCafe",
+    "category": "Food & Relaxation",
+    "description": "A casual café serving coffee, tea, pastries, light snacks, and cold beverages. Visitors can take a short break between festival activities while enjoying coral-inspired decorations and comfortable seating.",
+    "zone": "D",
+    "x": 245,
+    "y": 380
+  },
+  {
+    "id": 15,
+    "name": "Ocean View Lounge",
+    "key": "OceanViewLounge",
+    "category": "Food & Relaxation",
+    "description": "A comfortable relaxation lounge with panoramic views of the festival's marine exhibitions and water installations. The space offers premium seating, ambient lighting, and a quiet environment for visitors between scheduled activities.",
+    "zone": "D",
+    "x": 150,
+    "y": 345
+  },
+  {
+    "id": 16,
+    "name": "Tropical Relax Garden",
+    "key": "TropicalRelaxGarden",
+    "category": "Food & Relaxation",
+    "description": "An outdoor relaxation garden featuring tropical plants, decorative water features, shaded seating areas, and illuminated walking paths. Visitors can rest, enjoy the surrounding landscape, and take photographs near the festival's ocean-themed installations.",
+    "zone": "D",
+    "x": 285,
+    "y": 380
+  },
+  {
+    "id": 17,
+    "name": "Main Entrance",
+    "key": "MainEntrance",
+    "category": "Visitor Services",
+    "description": "The primary entrance to The Reef Casino Dive Festival, featuring visitor access points, festival information displays, and directions to the main activity zones. Guests can begin their visit here and access the central welcome hall.",
+    "zone": "E",
+    "x": 65,
+    "y": 440
+  },
+  {
+    "id": 18,
+    "name": "Information Hub",
+    "key": "InformationHub",
+    "category": "Visitor Services",
+    "description": "The main visitor assistance center providing information about festival schedules, event locations, activity reservations, and available services. Staff can help guests find specific areas and understand festival participation procedures.",
+    "zone": "E",
+    "x": 235,
+    "y": 475
+  },
+  {
+    "id": 19,
+    "name": "Changing Rooms",
+    "key": "ChangingRooms",
+    "category": "Visitor Services",
+    "description": "A dedicated changing facility for visitors participating in diving and water-based activities. The area includes individual changing spaces, secure lockers, showers, and designated sections for preparing personal diving equipment.",
+    "zone": "E",
+    "x": 140,
+    "y": 440
+  },
+  {
+    "id": 20,
+    "name": "Medical Safety Station",
+    "key": "MedicalSafetyStation",
+    "category": "Visitor Services",
+    "description": "A designated medical assistance and safety support area staffed by trained personnel during festival operations. The station provides first-aid assistance, supports emergency response coordination, and helps visitors experiencing health or safety concerns.",
+    "zone": "E",
+    "x": 275,
+    "y": 475
+  }
+]

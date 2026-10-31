@@ -66,7 +66,7 @@ export function EventsScreen() {
     <Screen>
       <Header
         title="Festival Events"
-        subtitle="Experiences by The Reef Casino"
+        subtitle="Experiences by The Reef Dive Festival"
         action={
           <IconButton
             label="My Bookings"
@@ -173,7 +173,7 @@ export function EventDetailScreen() {
         label={event.category}
         height={330}
       />
-      <Text style={styles.body}>Presented by The Reef Casino</Text>
+      <Text style={styles.body}>Presented by The Reef Dive Festival</Text>
       <View style={[styles.row, { marginTop: 20 }]}>
         <View style={[styles.card, { flex: 1 }]}>
           <Clock color={colors.cyan} />

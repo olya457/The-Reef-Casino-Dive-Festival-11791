@@ -24,7 +24,7 @@ export function SplashScreen({ onDone }: { onDone: () => void }) {
     return () => clearTimeout(timer);
   }, [onDone]);
   return (
-    <WaveBackground source={images.onboarding[0]} style={{ flex: 1 }}>
+    <WaveBackground source={images.splashBackground} style={{ flex: 1 }}>
       <LinearGradient
         colors={['#00132277', '#00101aaa']}
         style={StyleSheet.absoluteFill}
@@ -62,7 +62,7 @@ export function SplashScreen({ onDone }: { onDone: () => void }) {
                 marginTop: height * 0.045,
               }}
             >
-              DEEP BLUE
+              The Reef
             </Text>
             <Text
               style={{
@@ -72,10 +72,10 @@ export function SplashScreen({ onDone }: { onDone: () => void }) {
                 marginTop: 15,
               }}
             >
-              DIVING FESTIVAL
+              Dive Festival
             </Text>
             <Text style={[styles.body, { marginTop: 30, letterSpacing: 1 }]}>
-              Organized by The Reef Casino
+              Organized by The Reef Dive Festival
             </Text>
             <View style={{ height: 30, width: 100, marginTop: 18 }}>
               <WebView
@@ -104,8 +104,8 @@ export function SplashScreen({ onDone }: { onDone: () => void }) {
 }
 const slides = [
   [
-    'Welcome to Deep Blue',
-    'Discover an extraordinary world of diving adventures, ocean exploration, and unforgettable underwater experiences at Deep Blue Diving Festival.',
+    'Welcome to The Reef Dive Festival',
+    'Discover an extraordinary world of diving adventures, ocean exploration, and unforgettable underwater experiences at The Reef Dive Festival.',
   ],
   [
     'Navigate the Underwater World',
@@ -131,7 +131,10 @@ export function OnboardingScreen() {
   const { height, compact, gutter, fontScale } = useResponsive();
   const inset = useSafeAreaInsets();
   return (
-    <WaveBackground source={images.onboarding[index]} style={{ flex: 1 }}>
+    <WaveBackground
+      source={images.onboardingBackground}
+      style={{ flex: 1 }}
+    >
       <LinearGradient
         colors={['#00101a00', '#03142022', '#031420', '#031420']}
         locations={[0, 0.4, 0.72, 1]}
@@ -163,7 +166,7 @@ export function OnboardingScreen() {
                 <Waves size={22} color={colors.cyan} />
               </View>
               <Text style={{ color: '#b6cbd7', fontSize: 9, letterSpacing: 1 }}>
-                Presented by The Reef Casino
+                Presented by The Reef Dive Festival
               </Text>
             </View>
             <View

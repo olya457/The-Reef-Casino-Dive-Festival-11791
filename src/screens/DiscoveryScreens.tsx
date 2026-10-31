@@ -229,7 +229,7 @@ export function SecretDetailScreen() {
         secondary
         onPress={() => {
           Share.share({
-            message: `${secret.title}\n\n${secret.description}\n\n${secret.content}\n\nDeep Blue · The Reef Casino`,
+            message: `${secret.title}\n\n${secret.description}\n\n${secret.content}\n\nThe Reef Dive Festival`,
           }).catch(() => {});
         }}
       />

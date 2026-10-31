@@ -339,7 +339,7 @@ export function ChallengeScreen() {
             title="Share Achievement"
             onPress={() => {
               Share.share({
-                message: `I completed ${c.title} and earned the ${c.badge} badge at Deep Blue Diving Festival!`,
+                message: `I completed ${c.title} and earned the ${c.badge} badge at The Reef Dive Festival!`,
               }).catch(() => {});
             }}
           />

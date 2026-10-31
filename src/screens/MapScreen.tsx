@@ -191,7 +191,7 @@ export function MapScreen() {
         }}
       />
       <Text style={[styles.body, { fontSize: 11, textAlign: 'center' }]}>
-        Organized by The Reef Casino
+        Organized by The Reef Dive Festival
       </Text>
     </Screen>
   );

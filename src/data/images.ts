@@ -1,12 +1,7 @@
 export const images = {
   logo: require('../assets/deep-blue-emblem.png'),
-  onboarding: [
-    require('../assets/festival-entrance.png'),
-    require('../assets/ocean-atrium.png'),
-    require('../assets/dive-lagoon.png'),
-    require('../assets/aquarium-tunnel.png'),
-    require('../assets/festival-waterfront.png'),
-  ],
+  splashBackground: require('../assets/festival-entrance.png'),
+  onboardingBackground: require('../assets/onboarding-aquarium-night.png'),
   events: [
     require('../assets/discover-scuba-experience.png'),
     require('../assets/deep-water-exploration-session.png'),
